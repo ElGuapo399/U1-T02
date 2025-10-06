@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Nissan Skyline GT-R R34",
+    "categoria": "Deportivo",
+    "precio": 1200000,
+    "stock": true
+  },
+  {
+    "id": 2,
+    "nombre": "Toyota Supra MK4",
+    "categoria": "Deportivo",
+    "precio": 950000,
+    "stock": false
+  },
+  {
+    "id": 3,
+    "nombre": "Mazda RX-7 FD",
+    "categoria": "Coupé",
+    "precio": 870000,
+    "stock": true
+  },
+  {
+    "id": 4,
+    "nombre": "Honda NSX",
+    "categoria": "Superdeportivo",
+    "precio": 1350000,
+    "stock": true
+  },
+  {
+    "id": 5,
+    "nombre": "Subaru Impreza WRX STI",
+    "categoria": "Sedán",
+    "precio": 680000,
+    "stock": false
+  },
+  {
+    "id": 6,
+    "nombre": "Mitsubishi Lancer Evolution IX",
+    "categoria": "Sedán",
+    "precio": 720000,
+    "stock": true
+  }
+]
