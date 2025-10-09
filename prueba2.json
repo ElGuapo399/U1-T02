@@ -1,0 +1,29 @@
+{
+  "empleados": [
+    {
+      "id": 101,
+      "nombre": "Laura Chen",
+      "salario": 45000,
+      "proyectos": ["Web", "Mobile"],
+      "jefe": null,
+      "metas_cumplidas": 0.85
+    },
+    null,
+    {
+      "id": 102,
+      "nombre": "David Kim",
+      "salario": 52000,
+      "proyectos": ["AI", "Data"],
+      "jefe": {"nombre": "Ana G.", "id": 25},
+      "metas_cumplidas": 0.92
+    },
+    {
+      "id": 103,
+      "nombre": "Sofia Patel",
+      "salario": null,
+      "proyectos": [],
+      "jefe": {"nombre": "Ana G.", "id": 25},
+      "metas_cumplidas": 0.78
+    }
+  ]
+}

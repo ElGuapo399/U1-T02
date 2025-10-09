@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "AMX-30 B2",
+    "tipo": "Tanque de Combate Principal",
+    "fabricante": "GIAT Industries",
+    "introduccion": 1982,
+    "descripcion": "Modernización del tanque AMX-30 original. Mejoró el sistema de tiro, la protección y la movilidad, siendo el principal carro de combate francés durante los 80."
+  },
+  {
+    "id": 2,
+    "nombre": "Mirage 2000",
+    "tipo": "Caza Polivalente",
+    "fabricante": "Dassault Aviation",
+    "introduccion": 1984,
+    "descripcion": "Caza de superioridad aérea y ataque, sucesor de los Mirage III. Con su diseño de ala delta y gran agilidad, se convirtió en un pilar de la Fuerza Aérea francesa."
+  },
+  {
+    "id": 3,
+    "nombre": "Mirage F1",
+    "tipo": "Caza de Intercepción y Ataque",
+    "fabricante": "Dassault Aviation",
+    "introduccion": 1973,
+    "descripcion": "Aunque entró en servicio en los 70, fue un avión clave durante los 80. Diseñado para interceptación a alta velocidad a baja cota y apoyo aéreo cercano."
+  },
+  {
+    "id": 4,
+    "nombre": "AMX-10 RC",
+    "tipo": "Vehículo de Reconocimiento con Ruedas",
+    "fabricante": "GIAT Industries",
+    "introduccion": 1981,
+    "descripcion": "Vehículo de reconocimiento anfibio con ruedas (6x6) armado con un cañón de 105mm. Proporcionaba gran movilidad y poder de fuego a la caballería."
+  },
+  {
+    "id": 5,
+    "nombre": "Super Étendard",
+    "tipo": "Avión de Ataque Naval",
+    "fabricante": "Dassault Aviation",
+    "introduccion": 1978,
+    "descripcion": "Famoso por ser el avión que lanzó los misiles Exocet contra la flota británica en la Guerra de las Malvinas. Era el pilar de ataque de la marina francesa."
+  },
+  {
+    "id": 6,
+    "nombre": "FAMAS F1",
+    "tipo": "Fusil de Asalto",
+    "fabricante": "Manufacture d'armes de Saint-Étienne",
+    "introduccion": 1978,
+    "descripcion": "El icónico fusil de asalto francés con diseño bullpup. De calibre 5.56mm, fue el arma reglamentaria de la infantería francesa durante los 80."
+  },
+  {
+    "id": 7,
+    "nombre": "Aérospatiale SA 330 Puma",
+    "tipo": "Helicóptero de Transporte Táctico",
+    "fabricante": "Aérospatiale",
+    "introduccion": 1968,
+    "descripcion": "Helicóptero de transporte medio, ampliamente utilizado por el ejército francés en los 80 para movilidad de tropas y logística."
+  },
+  {
+    "id": 8,
+    "nombre": "Aérospatiale SA 342 Gazelle",
+    "tipo": "Helicóptero de Reconocimiento y Ataque Ligero",
+    "fabricante": "Aérospatiale",
+    "introduccion": 1973,
+    "descripcion": "Helicóptero ligero y ágil utilizado para reconocimiento, observación y como cazacarros armado con misiles HOT."
+  },
+  {
+    "id": 9,
+    "nombre": "Crotale EDIR",
+    "tipo": "Sistema de Misiles Superficie-Aire",
+    "fabricante": "Thomson-CSF",
+    "introduccion": 1978,
+    "descripcion": "Sistema de defensa aérea de corto alcance y altamente móvil, diseñado para defender bases aéreas y unidades móviles contra ataques aéreos."
+  },
+  {
+    "id": 10,
+    "nombre": "Exocet MM38/MM40",
+    "tipo": "Misil Antibuque",
+    "fabricante": "Aérospatiale",
+    "introduccion": 1975,
+    "descripcion": "El misil antibuque más temido de la era. Lanzado desde buques, se hizo tristemente célebre en la Guerra de las Malvinas y el conflicto Irán-Irak."
+  },
+  {
+    "id": 11,
+    "nombre": "Mirage IV",
+    "tipo": "Bombardero Estratégico",
+    "fabricante": "Dassault Aviation",
+    "introduccion": 1964,
+    "descripcion": "Columna vertebral de la 'Force de Frappe' (disuasión nuclear) francesa durante los 80, capaz de lanzar bombas nucleares a gran velocidad y altitud."
+  },
+  {
+    "id": 12,
+    "nombre": "Panhard ERC-90 Sagaie",
+    "tipo": "Automóvil Blindado de Reconocimiento",
+    "fabricante": "Panhard",
+    "introduccion": 1979,
+    "descripcion": "Vehículo de reconocimiento con ruedas (6x6) armado con un potente cañón de 90mm. Era rápido, ligero y tenía una silueta baja."
+  },
+  {
+    "id": 13,
+    "nombre": "Aérospatiale AS-332 Super Puma",
+    "tipo": "Helicóptero de Transporte Medio",
+    "fabricante": "Aérospatiale",
+    "introduccion": 1978,
+    "descripcion": "Versión mejorada y más grande del Puma, utilizado para transporte táctico, búsqueda y rescate (SAR) y asalto."
+  },
+  {
+    "id": 14,
+    "nombre": "Clase Tripartite (B-ATF)",
+    "tipo": "Cazaminas",
+    "fabricante": "Construcciones Mecánicas de Normandie",
+    "introduccion": 1984,
+    "descripcion": "Buque cazaminas de fabricación franco-belga-holandesa. Diseñado con un casco de fibra de vidrio y equipamiento de vanguardia para la guerra de minas."
+  },
+  {
+    "id": 15,
+    "nombre": "Mistral",
+    "tipo": "Misil Tierra-Aire Portátil (MANPADS)",
+    "fabricante": "Matra",
+    "introduccion": 1988,
+    "descripcion": "Aunque llegó al final de la década, este misil infrarrojo de corto alcance se convirtió en el sistema de defensa aérea personal estándar del ejército francés."
+  }
+]

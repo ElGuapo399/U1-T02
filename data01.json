@@ -1,0 +1,4 @@
+[
+  { "id": 1, "nombre": "PRODUCTO 01",  "categoria": "Periférico", "precio": 599,  "stock": true  },
+  { "id": 2, "nombre": "Audífonos","categoria": "Audio",      "precio": 899,  "stock": true  }
+]

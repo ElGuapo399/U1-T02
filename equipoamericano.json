@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "nombre": "M1 Abrams",
+    "tipo": "Tanque de Combate Principal",
+    "fabricante": "General Dynamics",
+    "introduccion": 1980,
+    "descripcion": "Tanque principal de batalla con una armadura Chobham y un cañón de 120mm. Símbolo del poder acorazado estadounidense durante la Guerra Fría."
+  },
+  {
+    "id": 2,
+    "nombre": "F-15 Eagle",
+    "tipo": "Caza de Superioridad Aérea",
+    "fabricante": "McDonnell Douglas",
+    "introduccion": 1976,
+    "descripcion": "Caza bimotor diseñado para ganar y mantener la superioridad aérea. Dominó los cielos en los 80."
+  },
+  {
+    "id": 3,
+    "nombre": "F-16 Fighting Falcon",
+    "tipo": "Caza Multirrol",
+    "fabricante": "General Dynamics",
+    "introduccion": 1978,
+    "descripcion": "Caza ligero, ágil y de bajo coste, utilizado tanto para superioridad aérea como para ataque."
+  },
+  {
+    "id": 4,
+    "nombre": "AH-64 Apache",
+    "tipo": "Helicóptero de Ataque",
+    "fabricante": "Hughes Helicopters",
+    "introduccion": 1986,
+    "descripcion": "Helicóptero de ataque pesado diseñado para cazar y destruir tanques. Armado con el sistema TADS/PNVS y misiles Hellfire."
+  },
+  {
+    "id": 5,
+    "nombre": "M2/M3 Bradley",
+    "tipo": "Vehículo de Combate de Infantería / Vehículo de Caballería",
+    "fabricante": "FMC Corporation",
+    "introduccion": 1981,
+    "descripcion": "Vehículo de combate de infantería y caballería, proporcionando movilidad y poder de fuego a la infantería mecanizada."
+  },
+  {
+    "id": 6,
+    "nombre": "UH-60 Black Hawk",
+    "tipo": "Helicóptero de Utilidad/Asalto",
+    "fabricante": "Sikorsky Aircraft",
+    "introduccion": 1979,
+    "descripcion": "Helicóptero de utilidad mediano para transporte de tropas, evacuación médica y múltiples misiones."
+  },
+  {
+    "id": 7,
+    "nombre": "A-10 Thunderbolt II 'Warthog'",
+    "tipo": "Avión de Ataque a Tierra",
+    "fabricante": "Fairchild Republic",
+    "introduccion": 1977,
+    "descripcion": "Avión de ataque a tierra especializado en apoyo aéreo cercano (CAS), famoso por su cañón rotativo GAU-8 Avenger de 30mm."
+  },
+  {
+    "id": 8,
+    "nombre": "MIM-104 Patriot",
+    "tipo": "Sistema de Misiles Superficie-Aire",
+    "fabricante": "Raytheon",
+    "introduccion": 1981,
+    "descripcion": "Sistema de defensa aérea diseñado para interceptar aeronaves y misiles tácticos."
+  },
+  {
+    "id": 9,
+    "nombre": "BGM-109 Tomahawk",
+    "tipo": "Misil de Crucero",
+    "fabricante": "General Dynamics",
+    "introduccion": 1983,
+    "descripcion": "Misil de crucero de largo alcance, lanzado desde submarinos y buques de superficie, para atacar objetivos terrestres con gran precisión."
+  },
+  {
+    "id": 10,
+    "nombre": "USS Ticonderoga (CG-47)",
+    "tipo": "Crucero Lanzamisiles",
+    "fabricante": "Ingalls Shipbuilding",
+    "introduccion": 1983,
+    "descripcion": "Primera clase de cruceros equipada con el sistema de combate Aegis y el sistema de lanzamiento vertical MK 41."
+  },
+  {
+    "id": 11,
+    "nombre": "M249 SAW",
+    "tipo": "Ametralladora Ligera",
+    "fabricante": "FN Herstal",
+    "introduccion": 1984,
+    "descripcion": "Ametralladora de escuadrón que proporciona un alto volumen de fuego de supresión para las unidades de infantería."
+  },
+  {
+    "id": 12,
+    "nombre": "M9 Beretta",
+    "tipo": "Pistola",
+    "fabricante": "Beretta",
+    "introduccion": 1985,
+    "descripcion": "Pistola semiautomática de 9mm que reemplazó a la M1911A1 como arma de dotación estándar."
+  },
+  {
+    "id": 13,
+    "nombre": "HMMWV 'Humvee'",
+    "tipo": "Vehículo Utilitario Ligero",
+    "fabricante": "AM General",
+    "introduccion": 1984,
+    "descripcion": "Vehículo táctico multipropósito que reemplazó a los jeeps y otros vehículos ligeros, convirtiéndose en un icono."
+  },
+  {
+    "id": 14,
+    "nombre": "Ohio-class Submarine",
+    "tipo": "Submarino de Misiles Balísticos (SSBN)",
+    "fabricante": "General Dynamics Electric Boat",
+    "introduccion": 1981,
+    "descripcion": "Columna vertebral de la disuasión nuclear estratégica de EE.UU., armado con misiles Trident."
+  },
+  {
+    "id": 15,
+    "nombre": "E-3 Sentry (AWACS)",
+    "tipo": "Avión de Alerta y Control Aéreo",
+    "fabricante": "Boeing",
+    "introduccion": 1977,
+    "descripcion": "Avión de vigilancia y control con un gran radar rotatorio, fundamental para el mando y control de batallas aéreas."
+  },
+  {
+    "id": 16,
+    "nombre": "M270 MLRS",
+    "tipo": "Sistema de Lanzamiento Múltiple de Cohetes",
+    "fabricante": "Vought Corporation",
+    "introduccion": 1983,
+    "descripcion": "Lanzador de cohetes de artillería autopropulsado capaz de saturar un área con submuniciones."
+  },
+  {
+    "id": 17,
+    "nombre": "M60E3",
+    "tipo": "Ametralladora Media",
+    "fabricante": "Saco Defense",
+    "introduccion": 1986,
+    "descripcion": "Versión mejorada y ligera de la ametralladora M60, utilizada por la infantería y como arma coaxial en vehículos."
+  },
+  {
+    "id": 18,
+    "nombre": "F-117 Nighthawk",
+    "tipo": "Avión Furtivo de Ataque",
+    "fabricante": "Lockheed Skunk Works",
+    "introduccion": 1983,
+    "descripcion": "Primer avión operativo diseñado alrededor de la tecnología furtiva, capaz de penetrar defensas aéreas densas."
+  },
+  {
+    "id": 19,
+    "nombre": "M998 HMMWV Cargo/Troop Carrier",
+    "tipo": "Vehículo de Transporte",
+    "fabricante": "AM General",
+    "introduccion": 1985,
+    "descripcion": "La variante básica de transporte de tropas y carga del ubiquitous Humvee."
+  },
+  {
+    "id": 20,
+    "nombre": "AGM-86 ALCM",
+    "tipo": "Misil de Crucero de Lanzamiento Aéreo",
+    "fabricante": "Boeing",
+    "introduccion": 1982,
+    "descripcion": "Misil de crucero nuclear lanzado desde bombarderos B-52, diseñado para penetrar defensas soviéticas."
+  }
+]

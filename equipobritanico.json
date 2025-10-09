@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "nombre": "L85A1 SA80",
+    "tipo": "Fusil de Asalto",
+    "fabricante": "Royal Small Arms Factory",
+    "introduccion": 1985,
+    "categoria": "Arma de Infantería",
+    "descripcion": "Fusil de asalto bullpup de 5.56mm que se convirtió en el arma estándar de infantería británica. Aunque adoleció de problemas de fiabilidad iniciales, era muy preciso."
+  },
+  {
+    "id": 2,
+    "nombre": "L7A2 GPMG",
+    "tipo": "Ametralladora de Propósito General",
+    "fabricante": "Royal Ordnance",
+    "introduccion": 1960,
+    "categoria": "Arma de Infantería",
+    "descripcion": "La versión británica de la FN MAG. Ametralladora media fiable de 7.62mm, utilizada como arma de sección y montada en vehículos. Pilar de la infantería en los 80."
+  },
+  {
+    "id": 3,
+    "nombre": "L96A1",
+    "tipo": "Fusil de Francotirador",
+    "fabricante": "Accuracy International",
+    "introduccion": 1986,
+    "categoria": "Arma de Infantería",
+    "descripcion": "Fusil de francotirador de alta precisión de calibre 7.62mm. Revolucionario por su chasis de polímero y aluminio, se convirtió en un estándar mundial."
+  },
+  {
+    "id": 4,
+    "nombre": "LAW 80",
+    "tipo": "Arma Antitanque Desechable",
+    "fabricante": "Royal Ordnance",
+    "introduccion": 1987,
+    "categoria": "Arma de Infantería",
+    "descripcion": "Lanzador desechable de 94mm para dotar a la infantería con capacidad antiblindaje a corto alcance. Reemplazó al viejo Energa."
+  },
+  {
+    "id": 5,
+    "nombre": "L9A1 Browning HP",
+    "tipo": "Pistola",
+    "fabricante": "FN Herstal / Canadian Arsenals",
+    "introduccion": 1954,
+    "categoria": "Arma de Infantería",
+    "descripcion": "La pistola estándar de las fuerzas británicas durante los 80. Una pistola semiautomática de 9mm robusta y fiable."
+  },
+
+
+
+  {
+    "id": 6,
+    "nombre": "Challenger 1",
+    "tipo": "Tanque de Combate Principal",
+    "fabricante": "Royal Ordnance Factories",
+    "introduccion": 1983,
+    "categoria": "Vehículo Blindado",
+    "descripcion": "Tanque de batalla principal británico, sucesor del Chieftain. Contaba con la innovadora armadura 'Chobham' y un potente cañón de 120mm."
+  },
+  {
+    "id": 7,
+    "nombre": "FV510 Warrior",
+    "tipo": "Vehículo de Combate de Infantería",
+    "fabricante": "GKN Sankey",
+    "introduccion": 1987,
+    "categoria": "Vehículo Blindado",
+    "descripcion": "Vehículo de combate de infantería que reemplazó a los antiguos FV430. Proporcionaba movilidad y protección mejoradas con un cañón automático de 30mm."
+  },
+  {
+    "id": 8,
+    "nombre": "FV107 Scimitar",
+    "tipo": "Vehículo de Reconocimiento",
+    "fabricante": "Alvis Cars",
+    "introduccion": 1971,
+    "categoria": "Vehículo Blindado",
+    "descripcion": "Vehículo de reconocimiento ligero de la familia CVR(T). Muy ágil y armado con un cañón de 30mm RARDEN, fue clave en la Guerra de las Malvinas."
+  },
+  {
+    "id": 9,
+    "nombre": "Land Rover 'Pig'",
+    "tipo": "Vehículo Utilitario Ligero",
+    "fabricante": "Land Rover",
+    "introduccion": 1948,
+    "categoria": "Vehículo de Transporte/Logística",
+    "descripcion": "El icónico Land Rover Series III y 110, en sus variantes militarizadas 'Pig'. Eran el caballo de batalla para transporte ligero, patrulla y enlace."
+  },
+  {
+    "id": 10,
+    "nombre": "Bedford TM",
+    "tipo": "Camión Militar de Servicio Medio",
+    "fabricante": "Bedford Vehicles",
+    "introduccion": 1980,
+    "categoria": "Vehículo de Transporte/Logística",
+    "descripcion": "Camión de 4x4 y 6x6 utilizado para una amplia gama de tareas logísticas, desde transporte de carga hasta como plataforma para grúas y equipos especializados."
+  },
+
+
+
+  {
+    "id": 11,
+    "nombre": "Panavia Tornado GR1",
+    "tipo": "Avión de Ataque/Interdictor",
+    "fabricante": "Panavia Aircraft GmbH",
+    "introduccion": 1979,
+    "categoria": "Avión",
+    "descripcion": "Avión de ataque táctico bimotor con alas de geometría variable. Diseñado para penetrar defensas aéreas a baja cota y alta velocidad, día o noche."
+  },
+  {
+    "id": 12,
+    "nombre": "BAe Harrier GR3/GR5",
+    "tipo": "Avión de Ataque V/STOL",
+    "fabricante": "British Aerospace",
+    "introduccion": 1969,
+    "categoria": "Avión",
+    "descripcion": "Avión de ataque con capacidad de despegue y aterrizaje vertical (V/STOL). Demostró su valía en las Malvinas. El GR5 fue una versión mejorada introducida a finales de los 80."
+  },
+  {
+    "id": 13,
+    "nombre": "Sea Harrier FRS1",
+    "tipo": "Caza V/STOL Naval",
+    "fabricante": "British Aerospace",
+    "introduccion": 1978,
+    "categoria": "Avión",
+    "descripcion": "El 'Shar' fue fundamental para la victoria británica en las Malvinas. Proporcionó defensa aérea y capacidades de ataque desde portaaviones."
+  },
+  {
+    "id": 14,
+    "nombre": "Westland Lynx",
+    "tipo": "Helicóptero Utilitario/Antibuque",
+    "fabricante": "Westland Helicopters",
+    "introduccion": 1978,
+    "categoria": "Avión",
+    "descripcion": "Helicóptero utilitario y de ataque extremadamente ágil. En su versión naval, armado con misiles Sea Skua, fue un eficaz cazabuques."
+  },
+  {
+    "id": 15,
+    "nombre": "BAe Hawk T1",
+    "tipo": "Avión de Entrenamiento/Ataque Ligero",
+    "fabricante": "British Aerospace",
+    "introduccion": 1976,
+    "categoria": "Avión",
+    "descripcion": "Avión de entrenamiento jet avanzado, utilizado por la RAF y el equipo de acrobacias Red Arrows. También tenía un rol secundario de defensa aérea local."
+  }
+]

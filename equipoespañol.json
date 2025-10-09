@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "nombre": "CETME Modelo L",
+    "tipo": "Fusil de Asalto",
+    "fabricante": "Centro de Estudios Técnicos de Materiales Especiales (CETME)",
+    "introduccion": 1986,
+    "categoria": "Arma de Infantería",
+    "descripcion": "Fusil de asalto bullpup de 5.56mm que reemplazó al CETME C. Diseño moderno pero que presentó algunos problemas iniciales de fiabilidad."
+  },
+  {
+    "id": 2,
+    "nombre": "CETME Ameli",
+    "tipo": "Ametralladora Ligera",
+    "fabricante": "CETME",
+    "introduccion": 1982,
+    "categoria": "Arma de Infantería",
+    "descripcion": "Ametralladora ligera de 5.56mm basada en el mecanismo del MG42. De alta cadencia de fuego, se convirtió en el arma automática de sección."
+  },
+  {
+    "id": 3,
+    "nombre": "Star Modelo Z-70",
+    "tipo": "Pistola",
+    "fabricante": "Star Bonifacio Echeverría",
+    "introduccion": 1970,
+    "categoria": "Arma de Infantería",
+    "descripcion": "Pistola semiautomática de 9mm estándar del Ejército español durante los 80. De diseño robusto pero con algunos inconvenientes en el mecanismo de seguridad."
+  },
+  {
+    "id": 4,
+    "nombre": "C-90",
+    "tipo": "Lanzador Anticarango",
+    "fabricante": "Instalaza",
+    "introduccion": 1988,
+    "categoria": "Arma de Infantería",
+    "descripcion": "Arma anticarro desechable de 90mm que dotó a la infantería española de capacidad antiblindaje moderna y portátil."
+  },
+  {
+    "id": 5,
+    "nombre": "MG3",
+    "tipo": "Ametralladora de Propósito General",
+    "fabricante": "Rheinmetall (bajo licencia)",
+    "introduccion": 1968,
+    "categoria": "Arma de Infantería",
+    "descripcion": "Ametralladora media de 7.62mm, versión modernizada del MG42 alemán. Arma estándar para vehículos y como ametralladora pesada de infantería."
+  },
+  {
+    "id": 6,
+    "nombre": "BMR-600",
+    "tipo": "Vehículo de Combate de Ruedas",
+    "fabricante": "ENASA",
+    "introduccion": 1979,
+    "categoria": "Vehículo Blindado",
+    "descripcion": "Vehículo blindado de ruedas 6x6 anfibio para transporte de tropas. Muy versátil, con múltiples variantes (mando, ambulancia, mortero)."
+  },
+  {
+    "id": 7,
+    "nombre": "AMX-30E",
+    "tipo": "Tanque de Combate Principal",
+    "fabricante": "Santa Bárbara Sistemas (bajo licencia)",
+    "introduccion": 1974,
+    "categoria": "Vehículo Blindado",
+    "descripcion": "Versión española del tanque francés AMX-30. Era el principal carro de combate del Ejército de Tierra durante los años 80."
+  },
+  {
+    "id": 8,
+    "nombre": "Land Rover Santana Serie III",
+    "tipo": "Vehículo Utilitario Ligero",
+    "fabricante": "Santana Motor",
+    "introduccion": 1972,
+    "categoria": "Vehículo de Transporte",
+    "descripcion": "Versión española del Land Rover, fabricada bajo licencia. Caballo de batalla para transporte ligero, enlace y patrulla en todas las fuerzas armadas."
+  },
+  {
+    "id": 9,
+    "nombre": "Pegaso 3045/3046",
+    "tipo": "Camión Militar",
+    "fabricante": "Pegaso",
+    "introduccion": 1978,
+    "categoria": "Vehículo de Transporte/Logística",
+    "descripcion": "Familia de camiones militares 4x4 y 6x6 para transporte de carga, tropas y como plataforma para sistemas de armas y equipos especiales."
+  }
+]
